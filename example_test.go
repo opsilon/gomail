@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"gopkg.in/gomail.v2"
+	"github.com/opsilon/gomail"
 )
 
 func Example() {
